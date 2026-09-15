@@ -1,7 +1,7 @@
 -What triggers this workflow to run? 
     When there is a push to the Main branch, and a pull request to the main branch
 -What are the four main steps this workflow performs? 
-    1. Checkout code 2. Validate HTML 3. Check links 4. Upload artifact
+    1. Checkout code (to chech out the code from the respository) 2. Validate HTML (Validating the HTML files) 3. Check links(To check for broken links) 4. Upload artifact (uploading the build site for deployment)
 -What does the "Checkout code" step do and why is it necessary?
     it "checks out" the code like its a book from a library. This is necessary to that what the programmer has is the most up-to-date code, and can change it without interfering with or be interfered with what others on the team are doing. 
 -What is the purpose of the environment configuration?
