@@ -31,7 +31,7 @@ techflow-website/
 - GitHub Actions for CI/CD
 
 ## Getting Started
-
+Lets take a look at what the requirments are!
 ### Prerequisites
 - Git installed on your local machine
 - A modern web browser
@@ -54,7 +54,9 @@ techflow-website/
 
 ### Making Changes
 
-This project follows a professional Git workflow:
+This project follows a professional Git workflow because this is for a 
+Business afterall:
+
 
 1. Create a feature branch for your changes
 2. Make your modifications
