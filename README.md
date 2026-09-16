@@ -1,5 +1,5 @@
 # TechFlow Solutions Website
-
+[![Deploy to GitHub Pages](https://github.com/A11y-of-Dragons/COMPSVII-Assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/A11y-of-Dragons/COMPSVII-Assignment2/actions/workflows/deploy.yml)
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
@@ -31,7 +31,7 @@ techflow-website/
 - GitHub Actions for CI/CD
 
 ## Getting Started
-
+Lets take a look at what the requirments are!
 ### Prerequisites
 - Git installed on your local machine
 - A modern web browser
@@ -54,7 +54,9 @@ techflow-website/
 
 ### Making Changes
 
-This project follows a professional Git workflow:
+This project follows a professional Git workflow because this is for a 
+Business afterall:
+
 
 1. Create a feature branch for your changes
 2. Make your modifications
